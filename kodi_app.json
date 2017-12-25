@@ -1,6 +1,6 @@
 {
 "name": "SmoothTV elite",
-"download_url": "http://smoothbuilds.com/updater_app/apps/SmoothTVElite176.apk",
+"download_url": "http://192.168.8.103:8080/smoothTV/SmoothTVElite176.apk",
   "version": 17,
   "description":"no Notification"
 }
