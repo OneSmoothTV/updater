@@ -1,6 +1,6 @@
 [
 			{
-				"id": 3,
+				"id": 1,
 				"name": "A-Z_TV_Venom",
 				"description": "TV with ultra High Quality",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_TV_Venom.apk",
@@ -10,7 +10,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 4,
+				"id": 2,
 				"name": "A-Z_Venom_Sports",
 				"description": "Sports Streaming App for live matches",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_Venom_Sports.png",
@@ -20,7 +20,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 5,
+				"id": 3,
 				"name": "FreeFlix_HQ",
 				"description": "Free Flix with high quality content",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -30,7 +30,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 6,
+				"id": 4,
 				"name": "xyz",
 				"description": "nothing ",
 				"screenshot_url": "https://abc.png",
