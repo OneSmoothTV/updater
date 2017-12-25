@@ -18,15 +18,5 @@
 				"version": 21412577,
 				"update_details": "added on 25 dec 2017 -- version 1",
 				"notification": "no notification"
-			},
-			{
-				"id": 5,
-				"name": "FreeFlix_HQ",
-				"description": "Free Flix with high quality content",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/FreeFlix_HQ.apk",
-				"version": 39,
-				"update_details": "added on 25 dec 2017 -- version 2.2.2",
-				"notification": "no notification"
 			}
 ]
