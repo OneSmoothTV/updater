@@ -36,7 +36,7 @@
 				"screenshot_url": "https://abc.png",
 				"brand_url": "http://xyz.apk",
 				"version": 00,
-				"update_details": "anything",
-				"notification": "added on nill"
+				"update_details": "nill",
+				"notification": "nill"
 			}
 ]
