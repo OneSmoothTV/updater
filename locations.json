@@ -28,15 +28,5 @@
 				"version": 39,
 				"update_details": "added on 25 dec 2017 -- version 2.2.2",
 				"notification": "no notification"
-			},
-			{
-				"id": 6,
-				"name": "xyz",
-				"description": "nothing ",
-				"screenshot_url": "https://abc.png",
-				"brand_url": "http://xyz.apk",
-				"version": 00,
-				"update_details": "nill",
-				"notification": "nill"
 			}
 ]
