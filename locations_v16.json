@@ -1,62 +1,32 @@
 [
 			{
-				"id": 1,
-				"name": "Nothing 1",
-				"description": "Full KODI Build with Adult Add-Ons",
-				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://s3.us-east-2.amazonaws.com/peter17y/UpdateA.zip",
-				"version": 39,
-				"update_details": "<b>Full KODI Build with Adult Add-Ons</b><br>- This is Mammoth build<br>- credits to Mammoth who created it<br>- Xonfluence skin<br>- version 39",
-				"notification": "added on 25 August 2017"
-			},
-			{
-				"id": 2,
-				"name": "Nothing 2",
-				"description": "Full KODI Build - Family Friendly Version",
-				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://s3.us-east-2.amazonaws.com/peter17y/UpdateF.zip",
-				"version": 39,
-				"update_details": "<b>Full KODI Build - Family Friendly Version</b><br>-  this is Griff build<br>- credits to Griff who created it<br>- Aeon nox skin<br>- version 39",
-				"notification": "added on 25 August 2017"
-			},
-			{
 				"id": 3,
-				"name": " Netflix",
-				"description": "Netflix with ultra High Quality",
-				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "http://mrwizard.x10host.com/home/apps/netflixlatest.ultrahd.apk",
-				"version": 21412577,
-				"update_details": "<b>subcribe it<br> <br> </b><br>- install it<br>- <br>- version 1",
-				"notification": "added on 25 August 2017"
+				"name": " A-Z_TV_Venom",
+				"description": "TV with ultra High Quality",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_TV_Venom.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.apk",
+				"version": 175000,
+				"update_details": "added on 25 dec 2017 -- version 17.5",
+				"notification": "no notification"
 			},
 			{
 				"id": 4,
-				"name": " Mobdro",
-				"description": "Mobdro Streaming App latest version",
-				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "http://mrwizard.x10host.com/home/apps/mobdro.apk",
-				"version": 21412577,
-				"update_details": "it is freemium --  version 21",
-				"notification": "added on 25 August 2017"
+				"name": " A-Z_Venom_Sports",
+				"description": "Sports Streaming App for live matches",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_Venom_Sports.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_Venom_Sports.apk",
+				"version": 175000,
+				"update_details": "added on 25 dec 2017 -- version 17.5",
+				"notification": "no notification"
 			},
 			{
 				"id": 5,
-				"name": "ES Explorer",
-				"description": "ES File Explorer helps manage your android phone and files efficiently and effectively",
-				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
-				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
-				"version": 14,
-				"update_details": "a top File Manager",
-				"notification": "added on 25 August 2017"
-			},
-			{
-				"id": 6,
-				"name": "abccc",
-				"description": "ES File Explorer helps manage your android phone and files efficiently and effectively",
-				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
-				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
-				"version": 14,
-				"update_details": "a top File Manager",
-				"notification": "added on 25 August 2017"
+				"name": "FreeFlix_HQ",
+				"description": "Free Flix with high quality content",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/FreeFlix_HQ.apk",
+				"version": 39,
+				"update_details": "added on 25 dec 2017 -- version 2.2.2",
+				"notification": "no notification"
 			}
 ]
