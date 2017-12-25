@@ -1,42 +1,42 @@
 [
 			{
 				"id": 3,
-				"name": " Netflix",
-				"description": "Netflix with ultra High Quality",
-				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "http://mrwizard.x10host.com/home/apps/netflixlatest.ultrahd.apk",
+				"name": "A-Z_TV_Venom",
+				"description": "TV with ultra High Quality",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_TV_Venom.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.apk",
 				"version": 21412577,
-				"update_details": "<b>subcribe it<br> <br> </b><br>- install it<br>- <br>- version 1",
-				"notification": "added on 25 August 2017"
+				"update_details": "added on 25 dec 2017 -- version 1",
+				"notification": "no notification"
 			},
 			{
 				"id": 4,
-				"name": " Mobdro",
-				"description": "Mobdro Streaming App latest version",
-				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "http://mrwizard.x10host.com/home/apps/mobdro.apk",
+				"name": "A-Z_Venom_Sports",
+				"description": "Sports Streaming App for live matches",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_Venom_Sports.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_Venom_Sports.apk",
 				"version": 21412577,
-				"update_details": "it is freemium --  version 21",
-				"notification": "added on 25 August 2017"
+				"update_details": "added on 25 dec 2017 -- version 1",
+				"notification": "no notification"
 			},
 			{
 				"id": 5,
-				"name": "ES Explorer",
-				"description": "ES File Explorer helps manage your android phone and files efficiently and effectively",
-				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
-				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
-				"version": 14,
-				"update_details": "a top File Manager",
-				"notification": "added on 25 August 2017"
+				"name": "FreeFlix_HQ",
+				"description": "Free Flix with high quality content",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/FreeFlix_HQ.apk",
+				"version": 39,
+				"update_details": "added on 25 dec 2017 -- version 2.2.2",
+				"notification": "no notification"
 			},
 			{
 				"id": 6,
-				"name": "abccc",
-				"description": "ES File Explorer helps manage your android phone and files efficiently and effectively",
-				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
-				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
-				"version": 14,
-				"update_details": "a top File Manager",
-				"notification": "added on 25 August 2017"
+				"name": "xyz",
+				"description": "nothing ",
+				"screenshot_url": "https://abc.png",
+				"brand_url": "http://xyz.apk",
+				"version": 00,
+				"update_details": "anything",
+				"notification": "added on nill"
 			}
 ]
