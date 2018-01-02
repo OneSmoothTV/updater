@@ -1,0 +1,32 @@
+[
+			{
+				"id": 3,
+				"name": " A-Z_TV_Venom",
+				"description": "TV with ultra High Quality",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.apk",
+				"version": 175000,
+				"update_details": "added on 25 dec 2017 -- version 17.5",
+				"notification": "no notification"
+			},
+			{
+				"id": 4,
+				"name": " A-Z_Venom_Sports",
+				"description": "Sports Streaming App for live matches",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_Venom_Sports.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_Venom_Sports.apk",
+				"version": 175000,
+				"update_details": "added on 25 dec 2017 -- version 17.5",
+				"notification": "no notification"
+			},
+			{
+				"id": 5,
+				"name": "FreeFlix_HQ",
+				"description": "Free Flix with high quality content",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/FreeFlix_HQ.apk",
+				"version": 39,
+				"update_details": "added on 25 dec 2017 -- version 2.2.2",
+				"notification": "no notification"
+			}
+]
