@@ -81,7 +81,7 @@
 			},
 			{
 				"id": 11,
-				"name": "ES File Explorer (Preferred File Browser and Explorer)",
+				"name": "ES File Explorer (Preferred File Browser/Explorer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/ES-File-Explorer_com.estrongs.android.pop.apk",
@@ -91,7 +91,7 @@
 			},
 			{
 				"id": 12,
-				"name": "Fildo",
+				"name": "Fildo (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Fildo_mp3.fil.music.apk",
@@ -104,7 +104,7 @@
 				"name": "Flenix",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/Flenix-APK _flenix.net.flenixapk.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/Flenix.apk",
 				"version": 17071516,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
