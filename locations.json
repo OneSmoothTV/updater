@@ -278,5 +278,25 @@
 				"version": 32,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
+			},
+			{
+				"id": 31,
+				"name": "VPlayer",
+				"description": "Smooth TV Updater apks",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/VPlayer_com.dndteam.vplayer.apk",
+				"version": 46,
+				"update_details": "added on Jan 2 2017",
+				"notification": "no notification"
+			},
+			{
+				"id": 32,
+				"name": "YouTube Music",
+				"description": "Smooth TV Updater apks",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/YouTube-Music_com.google.android.apps.youtube.music.apk",
+				"version": 18601330,
+				"update_details": "added on Jan 2 2017",
+				"notification": "no notification"
 			}
 ]
