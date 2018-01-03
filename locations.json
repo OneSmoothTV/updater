@@ -1,7 +1,7 @@
 [
 			{
 				"id": 3,
-				"name": "A-Z TV Venom (Live TV, Video on Demand, and 24/7 TV Shows)",
+				"name": "A-Z TV Venom (Premium Live TV, Video on Demand, and 24/7 TV Shows)",
 				"description": "TV with ultra High Quality",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.apk",
@@ -11,7 +11,7 @@
 			},
 			{
 				"id": 4,
-				"name": "A-Z Venom Sports",
+				"name": "A-Z Venom Sports (Premium Live Sports)",
 				"description": "Sports Streaming App for live matches",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/A-Z_Venom_Sports.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/AZTVVenomSports0.apk",
@@ -21,7 +21,7 @@
 			},
 			{
 				"id": 5,
-				"name": "FreeFlix_HQ",
+				"name": "FreeFlix_HQ (Free Movies)",
 				"description": "Free Flix with high quality content",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/FreeFlix_HQ.apk",
@@ -31,7 +31,7 @@
 			},
 			{
 				"id": 6,
-				"name": "Terrarium TV",
+				"name": "Terrarium TV (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Terrarium-TV.apk",
@@ -41,7 +41,7 @@
 			},
 			{
 				"id": 7,
-				"name": "Animania",
+				"name": "Animania (Cartoon Movies and Cartoon TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Animania_com.droidbender.animania.apk",
@@ -51,7 +51,7 @@
 			},
 			{
 				"id": 8,
-				"name": "Toonmania",
+				"name": "Toonmania (Dubbed Anime, Cartoons, and Cartoon Movies)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Toonmania_com.droidbender.toonmania.apk",
@@ -61,7 +61,7 @@
 			},
 			{
 				"id": 9,
-				"name": "Cartoon HD",
+				"name": "Cartoon HD (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Cartoon-HD_com.microrecord.mobizen.apk",
@@ -71,7 +71,7 @@
 			},
 			{
 				"id": 10,
-				"name": "Chrome",
+				"name": "Chrome (Preferred Internet Web Browser)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Chrome_com.android.chrome.apk",
@@ -81,7 +81,7 @@
 			},
 			{
 				"id": 11,
-				"name": "ES File Explorer",
+				"name": "ES File Explorer (Preferred File Browser/Explorer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/ES-File-Explorer_com.estrongs.android.pop.apk",
