@@ -101,7 +101,7 @@
 			},
 			{
 				"id": 13,
-				"name": "Flenix",
+				"name": "EMPTY (not working Flenix)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Flenix.apk",
@@ -111,7 +111,7 @@
 			},
 			{
 				"id": 14,
-				"name": "HD Movies",
+				"name": "HD Movies (Free Movies)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/HDmovies.apk",
@@ -121,7 +121,7 @@
 			},
 			{
 				"id": 15,
-				"name": "Host Team Viewer",
+				"name": "EMPTY (Host Team Viewer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewerHost.apk",
@@ -264,7 +264,7 @@
 				"name": "Team Viewer",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewer.mobile.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewer.apk",
 				"version": 7991,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
