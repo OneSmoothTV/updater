@@ -161,7 +161,7 @@
 			},
 			{
 				"id": 19,
-				"name": "MV CastPlayer",
+				"name": "EMPTY (not needed MV CastPlayer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/MVCastPlayer_com.multimedia.mvcastplayer.apk",
@@ -181,7 +181,7 @@
 			},
 			{
 				"id": 21,
-				"name": "Newest 3D Movies",
+				"name": "EMPTY (not needed Newest 3D Movies)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Newest-3D-Movies_com.newest.threed.movies.onezero.apk",
@@ -191,7 +191,7 @@
 			},
 			{
 				"id": 22,
-				"name": "Newest Movies HD",
+				"name": "EMPTY (not needed Newest Movies HD)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Newest-Movies HD_com.cloud.authent.newest.thfour.apk",
@@ -224,7 +224,7 @@
 				"name": "PIA VPN",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/PIA-VPN.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/PIAVPN.apk",
 				"version": 167,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
