@@ -221,7 +221,7 @@
 			},
 			{
 				"id": 25,
-				"name": "PIA VPN",
+				"name": "PIA VPN (Recommended Virtual Private Network)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/PIAVPN.apk",
@@ -231,7 +231,7 @@
 			},
 			{
 				"id": 26,
-				"name": "Quick Support Team Viewer",
+				"name": "Quick Support Team Viewer (Recommended Remote Support App)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/QuickSupport_com.teamviewer.quicksupport.market.apk",
@@ -251,10 +251,10 @@
 			},
 			{
 				"id": 28,
-				"name": "Spotify",
+				"name": "Spotify (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/Spotify_com.spotify.music.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/Spotify.apk",
 				"version": 20450557,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
@@ -281,7 +281,7 @@
 			},
 			{
 				"id": 31,
-				"name": "VPlayer",
+				"name": "EMPTY (not needed VPlayer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/VPlayer_com.dndteam.vplayer.apk",
@@ -291,10 +291,10 @@
 			},
 			{
 				"id": 32,
-				"name": "YouTube Music",
+				"name": "YouTube Music (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/YouTube-Music_com.google.android.apps.youtube.music.apk",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/YouTubeMusic.apk",
 				"version": 18601330,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
