@@ -121,7 +121,7 @@
 			},
 			{
 				"id": 15,
-				"name": "EMPTY (Host Team Viewer)",
+				"name": "EMPTY (not needed Host Team Viewer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewerHost.apk",
@@ -131,7 +131,7 @@
 			},
 			{
 				"id": 16,
-				"name": "MegaBox HD",
+				"name": "MegaBox HD (Free Movies and TV Shows) ",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/MegaBox-HD_com.leartmedia.tubio.apk",
@@ -151,7 +151,7 @@
 			},
 			{
 				"id": 18,
-				"name": "Music All",
+				"name": "Music All (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/MusicAll.apk",
@@ -171,7 +171,7 @@
 			},
 			{
 				"id": 20,
-				"name": "MX Player",
+				"name": "MX Player (Preferred Video Media Player)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/MX-Player_com.mxtech.videoplayer.ad.apk",
@@ -201,7 +201,7 @@
 			},
 			{
 				"id": 23,
-				"name": "OneBox HD",
+				"name": "OneBox HD (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/OneBox-HD_com.pklbox.translatorspro.apk",
@@ -211,7 +211,7 @@
 			},
 			{
 				"id": 24,
-				"name": "Pandora",
+				"name": "Pandora (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Pandora_com.pandora.android.apk",
@@ -241,7 +241,7 @@
 			},
 			{
 				"id": 27,
-				"name": "Show Box",
+				"name": "Show Box (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/Show-Box_com.tdo.showbox.apk",
@@ -261,7 +261,7 @@
 			},
 			{
 				"id": 29,
-				"name": "Team Viewer",
+				"name": "EMPTY (not needed Team Viewer)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewer.apk",
@@ -271,7 +271,7 @@
 			},
 			{
 				"id": 30,
-				"name": "TeaTV",
+				"name": "TeaTV (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeaTV.apk",
