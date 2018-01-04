@@ -101,16 +101,6 @@
 			},
 			{
 				"id": 13,
-				"name": "EMPTY (not working Flenix)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/Flenix.apk",
-				"version": 17071516,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 14,
 				"name": "HD Movies (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -120,17 +110,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 15,
-				"name": "EMPTY (not needed Host Team Viewer)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewerHost.apk",
-				"version": 7847,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 16,
+				"id": 14,
 				"name": "MegaBox HD (Free Movies and TV Shows) ",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -140,7 +120,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 17,
+				"id": 15,
 				"name": "Movie HD (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -150,7 +130,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 18,
+				"id": 16,
 				"name": "Music All (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -160,17 +140,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 19,
-				"name": "EMPTY (not needed MV CastPlayer)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/MVCastPlayer_com.multimedia.mvcastplayer.apk",
-				"version": 103,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 20,
+				"id": 17,
 				"name": "MX Player (Recommended Video Media Player)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -180,27 +150,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 21,
-				"name": "EMPTY (not needed Newest 3D Movies)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/Newest-3D-Movies_com.newest.threed.movies.onezero.apk",
-				"version": 5,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 22,
-				"name": "EMPTY (not needed Newest Movies HD)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/Newest-Movies HD_com.cloud.authent.newest.thfour.apk",
-				"version": 25,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 23,
+				"id": 18,
 				"name": "OneBox HD (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -210,7 +160,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 24,
+				"id": 19,
 				"name": "Pandora (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -220,7 +170,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 25,
+				"id": 20,
 				"name": "PIA VPN (Recommended Virtual Private Network)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -230,7 +180,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 26,
+				"id": 21,
 				"name": "Quick Support Team Viewer (Recommended Remote Support App)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -240,7 +190,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 27,
+				"id": 22,
 				"name": "Show Box (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -250,7 +200,7 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 28,
+				"id": 23,
 				"name": "Spotify (Free Music)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
@@ -260,42 +210,12 @@
 				"notification": "no notification"
 			},
 			{
-				"id": 29,
-				"name": "EMPTY (not needed Team Viewer)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeamViewer.apk",
-				"version": 7991,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 30,
+				"id": 24,
 				"name": "TeaTV (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/TeaTV.apk",
 				"version": 32,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 31,
-				"name": "EMPTY (not needed VPlayer)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/VPlayer_com.dndteam.vplayer.apk",
-				"version": 46,
-				"update_details": "added on Jan 2 2017",
-				"notification": "no notification"
-			},
-			{
-				"id": 32,
-				"name": "EMPTY (not needed YouTube Music)",
-				"description": "Smooth TV Updater apks",
-				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
-				"brand_url": "http://smoothbuilds.com/updater_app/apps/YouTubeMusic.apk",
-				"version": 18601330,
 				"update_details": "added on Jan 2 2017",
 				"notification": "no notification"
 			}
