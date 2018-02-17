@@ -1,7 +1,7 @@
 [
 			{
 				"id": 3,
-				"name": "A-Z TV Venom (Premium Live TV, Video on Demand, and 24/7 TV Shows)",
+				"name": "A-Z TV Venom (Original)(Premium Live TV, Video on Demand, and 24/7 TV Shows)",
 				"description": "TV with ultra High Quality",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.png",
 				"brand_url": "http://smoothbuilds.com/updater_app/apps/A-Z_TV_Venom.apk",
@@ -211,6 +211,16 @@
 			},
 			{
 				"id": 24,
+				"name": "A-Z TV Venom Ent. (New)(Premium Live TV, Video on Demand, and 24/7 TV Shows)",
+				"description": "TV with ultra High Quality",
+				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
+				"brand_url": "http://smoothbuilds.com/updater_app/apps/AZTVV_ENT.apk",
+				"version": 5,
+				"update_details": "added on Feb 17 2018",
+				"notification": "no notification"
+			},
+			{
+				"id": 25,
 				"name": "TeaTV (Free Movies and TV Shows)",
 				"description": "Smooth TV Updater apks",
 				"screenshot_url": "http://smoothbuilds.com/updater_app/media/FreeFlix_HQ.png",
